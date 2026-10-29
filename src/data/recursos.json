@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "nombre": "HTML semántico",
+    "categoria": "HTML",
+    "descripcion": "Estructura accesible de páginas",
+    "url": "https://developer.mozilla.org/es/docs/Glossary/Semantics",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 2,
+    "nombre": "Formularios",
+    "categoria": "HTML",
+    "descripcion": "Controles y etiquetas para recibir datos",
+    "url": "https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 3,
+    "nombre": "Flexbox",
+    "categoria": "CSS",
+    "descripcion": "Distribución flexible en una dimensión",
+    "url": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 4,
+    "nombre": "CSS Grid",
+    "categoria": "CSS",
+    "descripcion": "Grillas para organizar interfaces",
+    "url": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 5,
+    "nombre": "Diseño adaptable",
+    "categoria": "CSS",
+    "descripcion": "Interfaces para distintos tamaños de pantalla",
+    "url": "https://developer.mozilla.org/es/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 6,
+    "nombre": "Variables CSS",
+    "categoria": "CSS",
+    "descripcion": "Valores reutilizables para la identidad visual",
+    "url": "https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 7,
+    "nombre": "JavaScript",
+    "categoria": "JavaScript",
+    "descripcion": "Lenguaje para crear interacciones",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 8,
+    "nombre": "Arreglos",
+    "categoria": "JavaScript",
+    "descripcion": "Colecciones de datos y sus métodos",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 9,
+    "nombre": "Objetos",
+    "categoria": "JavaScript",
+    "descripcion": "Propiedades para representar información",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_objects",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 10,
+    "nombre": "Funciones",
+    "categoria": "JavaScript",
+    "descripcion": "Bloques de código reutilizables",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 11,
+    "nombre": "Eventos",
+    "categoria": "JavaScript",
+    "descripcion": "Respuestas a acciones de las personas",
+    "url": "https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/Events",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 12,
+    "nombre": "Fetch",
+    "categoria": "JavaScript",
+    "descripcion": "Consultas a servicios desde el navegador",
+    "url": "https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 13,
+    "nombre": "Promesas",
+    "categoria": "JavaScript",
+    "descripcion": "Manejo de operaciones asincrónicas",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Using_promises",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 14,
+    "nombre": "JSON",
+    "categoria": "JavaScript",
+    "descripcion": "Intercambio y organización de datos",
+    "url": "https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/JSON",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 15,
+    "nombre": "React",
+    "categoria": "React",
+    "descripcion": "Interfaces construidas con componentes",
+    "url": "https://react.dev/learn",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 16,
+    "nombre": "Componentes",
+    "categoria": "React",
+    "descripcion": "Piezas reutilizables de interfaz",
+    "url": "https://react.dev/learn/your-first-component",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 17,
+    "nombre": "Props",
+    "categoria": "React",
+    "descripcion": "Datos que recibe un componente",
+    "url": "https://react.dev/learn/passing-props-to-a-component",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 18,
+    "nombre": "Estado",
+    "categoria": "React",
+    "descripcion": "Información que cambia con las interacciones",
+    "url": "https://react.dev/learn/state-a-components-memory",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 19,
+    "nombre": "Efectos",
+    "categoria": "React",
+    "descripcion": "Sincronización con sistemas externos",
+    "url": "https://react.dev/learn/synchronizing-with-effects",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 20,
+    "nombre": "React Router",
+    "categoria": "React",
+    "descripcion": "Navegación entre pantallas",
+    "url": "https://reactrouter.com/en/main/start/overview",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 21,
+    "nombre": "Git",
+    "categoria": "Herramientas",
+    "descripcion": "Control de versiones del proyecto",
+    "url": "https://git-scm.com/doc",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 22,
+    "nombre": "GitHub",
+    "categoria": "Herramientas",
+    "descripcion": "Colaboración mediante repositorios",
+    "url": "https://docs.github.com/es",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 23,
+    "nombre": "Accesibilidad",
+    "categoria": "Herramientas",
+    "descripcion": "Buenas prácticas para interfaces inclusivas",
+    "url": "https://developer.mozilla.org/es/docs/Learn_web_development/Core/Accessibility",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  },
+  {
+    "id": 24,
+    "nombre": "Vite",
+    "categoria": "Herramientas",
+    "descripcion": "Entorno de desarrollo para aplicaciones frontend",
+    "url": "https://vite.dev/guide/",
+    "detalle": "Recurso de consulta para profundizar este tema y aplicarlo en el desarrollo de interfaces."
+  }
+]
